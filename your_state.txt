@@ -41,7 +41,7 @@ Rhode Island 	RI 	44
 South Carolina 	SC 	45
 South Dakota 	SD 	46
 Tennessee 	TN 	47
-Texas 	 	TX 	48 	Daryl 
+Texas 	 	TX 	48 	Daryl DeFord
 Utah 	 	UT 	49
 Vermont 	VT 	50
 Virginia 	VA 	51
