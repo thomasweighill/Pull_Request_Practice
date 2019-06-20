@@ -16,7 +16,7 @@ Indiana 	IN 	18
 Iowa 	 	IA 	19
 Kansas 	 	KS 	20
 Kentucky 	KY 	21
-Louisiana 	LA 	22
+Louisiana 	LA 	22	Eric Stucky
 Maine 	 	ME 	23
 Maryland 	MD 	24
 Massachusetts 	MA 	25
