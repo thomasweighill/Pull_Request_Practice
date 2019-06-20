@@ -32,7 +32,7 @@ New Jersey 	NJ 	34
 New Mexico 	NM 	35
 New York 	NY 	36
 North Carolina 	NC 	37
-North Dakota 	ND 	38
+North Dakota 	ND 	38      Parker Rule
 Ohio 	 	OH 	39
 Oklahoma 	OK 	40
 Oregon 	 	OR 	41
