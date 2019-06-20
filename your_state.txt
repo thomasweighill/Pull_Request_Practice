@@ -18,7 +18,7 @@ Kansas 	 	KS 	20
 Kentucky 	KY 	21
 Louisiana 	LA 	22
 Maine 	 	ME 	23
-Maryland 	MD 	24
+Maryland 	MD 	24	Kai
 Massachusetts 	MA 	25
 Michigan 	MI 	26
 Minnesota 	MN 	27
