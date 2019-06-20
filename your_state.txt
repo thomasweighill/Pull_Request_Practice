@@ -2,7 +2,7 @@ State 	Postal  	FIPS 	Name
 Alabama 	AL 	01 	
 Alaska 	 	AK 	02
 Arizona 	AZ 	04
-Arkansas 	AR 	05
+Arkansas 	AR 	05	Mélisande
 California 	CA 	06
 Colorado 	CO 	08
 Connecticut 	CT 	09
