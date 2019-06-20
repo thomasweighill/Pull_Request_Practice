@@ -9,7 +9,7 @@ Connecticut 	CT 	09
 Delaware 	DE 	10
 Florida 	FL 	12
 Georgia 	GA 	13
-Hawaii 	 	HI 	15
+Hawaii 	 	HI 	15      Colby Brown
 Idaho 	 	ID 	16
 Illinois 	IL 	17
 Indiana 	IN 	18
