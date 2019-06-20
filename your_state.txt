@@ -22,7 +22,7 @@ Maryland 	MD 	24	Kai
 Massachusetts 	MA 	25
 Michigan 	MI 	26
 Minnesota 	MN 	27
-Mississippi 	MS 	28
+Mississippi 	MS 	28	Ari Goldbloom-Helzner
 Missouri 	MO 	29
 Montana 	MT 	30
 Nebraska 	NE 	31
